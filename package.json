@@ -1,0 +1,28 @@
+{
+  "name": "YiWord",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "docxtemplater": "~1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevezheng/YiWord.git"
+  },
+  "keywords": [
+    "node",
+    "to",
+    "word",
+    "sample"
+  ],
+  "author": "stevezheng",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/stevezheng/YiWord/issues"
+  }
+}
